@@ -1,6 +1,28 @@
 body {
   background-color: plum;
+  margin: 20px;
 }
 h1 {
-  color: purple
+  font-weight: bold;
+  font-size: x-large;
+  color: rgb(78, 8, 78);
+  margin: 25px;
+}
+h2 {
+  font-weight: bold;
+  font-size: medium;
+  color: purple;
+  margin: 10px 25px 0px;
+}
+p {
+  margin: 0px 25px;
+  margin-right: 150px;
+}
+ul li {
+  list-style-type: circle;
+  margin: 5px 50px;
+}
+ol li {
+  list-style-type: decimal;
+  margin: 5px 50px;
 }
